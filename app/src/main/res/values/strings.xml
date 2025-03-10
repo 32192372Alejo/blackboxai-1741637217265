@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interviewface</string>
+    <string name="title">Interviewface</string>
+    <string name="main_subtitle">Proyecta tu futuro laboral\ncon el uso de nuestro\nsimulador de entrevistas</string>
+    <string name="btn_login">Iniciar sesion</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="bottom_description">Con este simulador podrás practicar tus habilidades de entrevistador y mejorar la selección de candidatos para tu empresa</string>
+    <string name="toast_login">Iniciando sesión...</string>
+    <string name="toast_register">Registrarse...</string>
+</resources>
