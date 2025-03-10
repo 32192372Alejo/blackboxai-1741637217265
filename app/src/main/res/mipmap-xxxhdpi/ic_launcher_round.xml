@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <path
+        android:fillColor="#1A1D1F"
+        android:pathData="M0,0 L108,0 L108,108 L0,108 z"/>
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28C47.37,28 42,33.37 42,40C42,46.63 47.37,52 54,52C60.63,52 66,46.63 66,40C66,33.37 60.63,28 54,28ZM54,58C45.99,58 30,62.02 30,70V74C30,75.1 30.9,76 32,76H76C77.1,76 78,75.1 78,74V70C78,62.02 62.01,58 54,58Z"/>
+        
+    <!-- Add circular mask -->
+    <path
+        android:fillColor="#1A1D1F"
+        android:pathData="M0,0 L0,108 L108,108 L108,0 L0,0 M54,0 C83.823,0 108,24.177 108,54 C108,83.823 83.823,108 54,108 C24.177,108 0,83.823 0,54 C0,24.177 24.177,0 54,0"/>
+</vector>
